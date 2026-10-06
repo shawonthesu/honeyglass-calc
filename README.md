@@ -2,7 +2,7 @@
 
 A glassmorphism calculator built with plain HTML, CSS and JavaScript, in a warm honey and amber palette. No frameworks, no build step.
 
-**Live demo:** https://superguine.github.io/honeyglass-calc/
+[**Live demo**](https://shawonthesu.github.io/honeyglass-calc/)
 
 ## Screenshot
 
